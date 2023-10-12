@@ -23,10 +23,6 @@ This project uses historical earthquake data in JSON format from USGS. The main 
 
 If you'd like to contribute to the project, please fork the repository, make your changes, and open a pull request. All contributions are welcomed!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ## Acknowledgements
 
 - Thanks to the USGS for providing the invaluable earthquake data set.
